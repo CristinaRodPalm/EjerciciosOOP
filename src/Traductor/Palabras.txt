@@ -1,0 +1,4 @@
+hola, hello
+manzana, apple
+rosa, pink
+perro, dog
